@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+for (var prop in $1) {
+  $2
+}
+]]></content>
+<description>for (var prop in obj){}</description >
+  <tabTrigger>for</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
