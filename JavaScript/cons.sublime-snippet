@@ -1,7 +1,6 @@
 <snippet>
   <content><![CDATA[
 console.log($1);
-$2
   ]]></content>
    <description>console.log</description >
   <tabTrigger>con</tabTrigger>
