@@ -5,6 +5,6 @@ for (var prop in $1) {
 }
 ]]></content>
 <description>for (var prop in obj){}</description >
-  <tabTrigger>for</tabTrigger>
+  <tabTrigger>for var</tabTrigger>
   <scope>source.js</scope>
 </snippet>
