@@ -8,6 +8,6 @@ I'll add new snippets as I learn more.
 
 ## Usage
 
-To use the snippets, simply put the `.sublime-snippet` files in Sublime Text's User folder or its any subfolder. For Sublime Text 3 on OS X, the default path is `/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/User/` (substitute USERNAME with system's current username).
+To use the snippets, simply put the snippet files in ST's User folder or its any subfolder. For ST 3 on OS X, the default path is `/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/User/` (substitute USERNAME with system's current username).
 
-To overwrite some of the default snippets, put what's within `default` folder on the top level of packages (`/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/`).
+The snippets in the `default` folder will replace the default snippets with the same name when put on the top level of packages, `/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/LANGUAGENAME`.
