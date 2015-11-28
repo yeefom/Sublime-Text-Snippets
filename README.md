@@ -2,12 +2,12 @@
 
 ## Summary
 
-These are the snippets I use in Sublime Text 3 (ST). They can come in handy when coding. The biggest advantage of using ST snippets instead of tools such as TextExpander is that ST snippets respect indentation. Besides, ST snippets are more configurable–for example, individual snippet can be set to only expand in a certain language.
+These are the snippets I use in Sublime Text 3. They can come in handy when coding. The biggest advantage of using Sublime Text's snippets instead of text expansion apps such as TextExpander is that Sublime Text's snippets respect indentation. They are also more configurable–for example, individual snippet can be set to only expand in specified languages.
 
-I'll add new snippets as I learn more. 
+I'll add new ones as I learn more.
 
 ## Usage
 
-To use the snippets, simply put the snippet files in ST's User folder or its any subfolder. For ST 3 on OS X, the default path is `/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/User/` (substitute USERNAME with system's current username).
+To use the snippets, simply put the snippet files in Sublime Text's `User` folder or any of its subfolders. For Sublime Text 3 on OS X, the `User` folder can be accessed via menu bar: `Sublime Text -> Preferences -> Browse Packages…`.
 
-The snippets in the `default` folder will replace the default snippets with the same name when put on the top level of packages, `/Users/USERNAME/Library/Application Support/Sublime Text 3/Packages/LANGUAGENAME`.
+The snippets in the `default` folder will replace the default snippets of the same name when put on the top level of packages.
