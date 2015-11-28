@@ -10,4 +10,4 @@ I'll add new ones as I learn more.
 
 To use the snippets, simply put the snippet files in Sublime Text's `User` folder or any of its subfolders. For Sublime Text 3 on OS X, the `User` folder can be accessed via menu bar: `Sublime Text -> Preferences -> Browse Packages…`.
 
-The snippets in the `default` folder will replace the default snippets of the same name when put on the top level of packages.
+The snippets in the `default` folder can be used to replace the default snippets of the same name when put on the top level of packages folders.
