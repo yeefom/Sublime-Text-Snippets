@@ -4,7 +4,7 @@
 
 These are the snippets I use in Sublime Text 3. They can come in handy when coding. The biggest advantage of using Sublime Text's snippets instead of text expansion apps such as TextExpander is that Sublime Text's snippets respect indentation. They are also more configurable–for example, individual snippet can be set to only expand in specified languages.
 
-I'll add new ones as I learn more.
+New ones will be added.
 
 ## Usage
 
