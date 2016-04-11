@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[require('$0');
+]]></content>
+<description>require('');</description >
+  <tabTrigger>require</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
