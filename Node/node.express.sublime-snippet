@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+var morgan = require('morgan');
+var body_parser = require('body-parser');
+var express = require('express');
+var app = express();
+
+app.use(morgan('dev'));
+app.use(body_parser.urlencoded({extended : true}));
+app.use(body_parser.json());
+app.use(express.static('client'));
+
+
+
+app.listen(process.env.PORT || ${1:port}, function() {
+  console.log('Express server listening on port ${1:port}');
+});
+
+module.exports = app;
+]]></content>
+  <description>Node Express</description >
+  <tabTrigger>ndexpress</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
