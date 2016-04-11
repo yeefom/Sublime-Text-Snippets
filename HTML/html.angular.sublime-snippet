@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="assets/normalize.css">
+  <link rel="stylesheet" type="text/css" href="assets/style.css">
+  <title>${1:title}</title>
+</head>
+<body ng-app="$2">
+  <h1>${1:title}</h1>
+  <div ng-view></div>
+  
+  <script src="vend/angular.min.js"></script>
+  <script src="vend/angular-route.min.js"></script>
+  <script src="app/app.js"></script>
+  <!-- more dependencies -->
+</body>
+</html>
+]]></content>
+  <description>Angular HTML</description >
+  <tabTrigger>htmlng</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
