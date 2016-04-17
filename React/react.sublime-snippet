@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[React = require('react');
 ]]></content>
-    <tabTrigger>react</tabTrigger>
+    <tabTrigger>React</tabTrigger>
     <scope>source.js</scope>
 </snippet>
