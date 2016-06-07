@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[class $1 extends $2 {
+  $3
+}
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
