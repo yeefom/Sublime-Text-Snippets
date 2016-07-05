@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[import $1 from $2;
+  <content><![CDATA[import $1 from '$2';
 ]]></content>
 <description>import from;</description >
   <tabTrigger>importfrom</tabTrigger>
