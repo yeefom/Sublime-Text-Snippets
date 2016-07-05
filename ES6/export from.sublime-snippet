@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[export $1 from '$2';
+]]></content>
+<description>export from;</description >
+  <tabTrigger>exportfrom</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
