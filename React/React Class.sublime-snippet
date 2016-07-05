@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+import React, {Component} from 'react';
+
+class ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} extends Component {
+  render() {
+    return (
+      ${0:<div></div>}
+    );
+  }
+}
+
+export default ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}};
+]]></content>
+    <tabTrigger>reactclass</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
