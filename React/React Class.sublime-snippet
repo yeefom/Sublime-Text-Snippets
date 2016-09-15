@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-import React, {Component} from 'react';
+import React, {Component, PropTypes} from 'react';
 
 class ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} extends Component {
   render() {
